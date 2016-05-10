@@ -1,5 +1,5 @@
 //Project 5 by Kelly Hernandez
-//CST 112 with professor bam
+//CST 112 Mr. bam
 
 
 float horizon;
@@ -619,8 +619,6 @@ void messages() {      //title
   fill(0);
   textSize(20);
   text("Project 5", 20, 30);
-  textSize(12);
-
   textSize(12);
   text("Press any of the buttons to do their actions", 50, 80);       //controls
   text("Press 't' to move taller to the end", 50, 100);
